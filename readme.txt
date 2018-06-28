@@ -7,7 +7,9 @@ To run the code, 'cd' into the 'proj1' directory and run 'Rscript project1.R'. (
 The second part contains two models for explaining contemporaneous return of the stocks. 
 To access the part, 'cd' into the 'proj2' directory and run 'jupyter notebook method1.ipynb' / 'jupyter notebook method2.ipynb'
 
-
+Environments:
+R - 3.4.2
+Python - 3.5.3
 
 File structures:
 - downloadData.py      - scripts for downloading bulks of stock data
